@@ -1,0 +1,3 @@
+const validateSubsequence = (array, sequence) => {
+
+}
