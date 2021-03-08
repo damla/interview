@@ -3,3 +3,4 @@
 ## Arrays
 
 - Two Number Sum
+- Validate Subsequence
