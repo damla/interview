@@ -4,3 +4,4 @@
 
 - Two Number Sum
 - Validate Subsequence
+- Sorted Squared Array
